@@ -13,4 +13,4 @@ npm install
 
 ## Run Server
 
-npm start
+npm run dev
